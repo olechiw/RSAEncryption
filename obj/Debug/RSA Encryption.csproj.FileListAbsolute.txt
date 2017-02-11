@@ -1,0 +1,9 @@
+Z:\RSA Encryption\RSA Encryption\bin\Debug\RSA Encryption.exe.config
+Z:\RSA Encryption\RSA Encryption\bin\Debug\RSA Encryption.exe
+Z:\RSA Encryption\RSA Encryption\bin\Debug\RSA Encryption.pdb
+Z:\RSA Encryption\RSA Encryption\obj\Debug\RSA Encryption.csprojResolveAssemblyReference.cache
+Z:\RSA Encryption\RSA Encryption\obj\Debug\RSA_Encryption.MainForm.resources
+Z:\RSA Encryption\RSA Encryption\obj\Debug\RSA_Encryption.Properties.Resources.resources
+Z:\RSA Encryption\RSA Encryption\obj\Debug\RSA Encryption.csproj.GenerateResource.Cache
+Z:\RSA Encryption\RSA Encryption\obj\Debug\RSA Encryption.exe
+Z:\RSA Encryption\RSA Encryption\obj\Debug\RSA Encryption.pdb
